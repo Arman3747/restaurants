@@ -215,6 +215,26 @@ width: 818px;
     align-items: center;
 }
 
+.about_us{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+}
+
+/* .image_side{
+    margin: 20px auto;
+} */
+
+.about_us .image_display
+{
+    width: 55%;
+}
+
+.about_us .image_display img
+{
+    width: 100%;
+}
 
 
 
